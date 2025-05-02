@@ -2,7 +2,8 @@
     "name": "azure-function",
     "version": "1.0.0",
     "scripts": {
-      "start": "swa start ./frontend --api-location ./api"
+      "front": "cd frontend && npm run build",
+      "start": "swa start ./frontend/dist --api-location ./api"
     },
     "dependencies": {}
 }

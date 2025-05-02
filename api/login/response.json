@@ -1,11 +1,7 @@
 {
     "body": {
-        "code": 200,
-        "message": "OK",
-        "data": {
-            "userId": 12345,
-            "username": "johndoe",
-            "email": "sads@gmail.com"
-        }
+        "userId": 12345,
+        "username": "hirak.santra",
+        "email": "hirak.santra@gmail.com"
     }
 }
